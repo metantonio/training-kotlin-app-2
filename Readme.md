@@ -1,4 +1,4 @@
 <!-- seccion de redes sociales -->
 <p align="center">
-      <img src="./portada.jpg" />
+      <img src="./portada.gif" />
 </p>
